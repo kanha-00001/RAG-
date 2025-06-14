@@ -1,0 +1,11 @@
+trulens
+llama_index
+Ipython 
+ipykernel
+llama-index-embeddings-huggingface
+torch 
+transformers
+llama-index-llms-groq
+streamlit
+chromadb
+llama-index-vector-stores-chroma
